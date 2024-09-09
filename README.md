@@ -29,6 +29,6 @@ A responsive gym website built using HTML and CSS, showcasing various services s
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/gym-website.gitOpen the index.html file in your web browser to view the website.To edit the website:Update the HTML files in the root directory.Modify the CSS styles in the styles.css file located in the root directory.Image CreditsReplace the placeholder images with actual images related to the gym and its services.LicenseThis project is licensed under the MIT License - see the LICENSE file for details.### Instructions:
-- Replace https://github.com/yourusername/gym-website.git with your actual GitHub repository link.
+   git clone https://github.com/GOWSHIKA-D/gym-website.gitOpen the index.html file in your web browser to view the website.To edit the website:Update the HTML files in the root directory.Modify the CSS styles in the styles.css file located in the root directory.Image CreditsReplace the placeholder images with actual images related to the gym and its services.LicenseThis project is licensed under the MIT License - see the LICENSE file for details.### Instructions:
+- Replace https://github.com/GOWSHIKA-D/gym-website.git with your actual GitHub repository link.
 - Modify the *Image Credits* section based on the source of the images you use.
